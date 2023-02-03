@@ -47,9 +47,6 @@ a {
   text-decoration: none;
 }
 
-p {
-  font-size: 16px;
-}
 /* Banner Img */
 .hero {
   height: 800px;
@@ -58,6 +55,12 @@ p {
   background-image: url("../images/digital-marketing-meeting.jpg");
   background-size: cover;
   background-position: center;
+}
+
+section {
+  width: 75%;
+  display: inline-block;
+  margin-left: 20px;
 }
 
 .float-left {
@@ -70,10 +73,8 @@ p {
   margin-left: 25px;
 }
 
-.content {
-  width: 75%;
-  display: inline-block;
-  margin-left: 20px;
+p {
+  font-size: 16px;
 }
 
 .benefits {
