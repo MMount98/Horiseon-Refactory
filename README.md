@@ -59,7 +59,7 @@ To make sure this worked, I turned on the screen reader on macOS - Voice Over. T
 
 After that, I opend the webpage and listent for my 'Aria-label' to be read allowed. 
 
-##Take Aways 
+## Take Aways 
 
 This was a well designed project to work on sematic elements and SEO. I learend that there is a lot more to refeactor work than I had orginal thought. This Was a great learning tool for me to start seeing what the day to day work life of a web developer could look like. Getting a hands on approach to the industry is a huge step in my ability as a developer.
 
