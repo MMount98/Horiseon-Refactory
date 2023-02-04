@@ -40,7 +40,7 @@ The purpose behind this porject/module is to test my ability in refactory work. 
  
 The following image shows the Collapsing technique I used :
 
-![Screenshot of VScode with split panes. Both the HTML and CSS are collapsed at specific sections](./assets/images/Screenshot 2023-02-03 at 7.06.16 PM.png)
+![Screenshot of VScode with split panes. Both the HTML and CSS are collapsed at specific sections](./assets/images/Screenshot-panel1.png)
 
 ## Learning Moment
 
@@ -55,7 +55,7 @@ Allows screen readers to treat the attribute as a stand in 'alt' attribute.
 
 To make sure this worked, I turned on the screen reader on macOS - Voice Over. To do this, I simply went to settings and typed in Voice Over in the search bar. 
 
-![macOS settings menu](./assets/images/Screenshot 2023-02-03 at 7.27.39 PM.png)
+![macOS settings menu](./assets/images/Screenshot-settings.png)
 
 After that, I opend the webpage and listent for my 'Aria-label' to be read allowed. 
 
