@@ -28,7 +28,7 @@
  
  The Following image demonstrates the landing page's desired layout:
  
-![01-html-css-git-homework-demo] (https://user-images.githubusercontent.com/116608765/216740441-4cbf6992-30cc-4993-b66d-2ce8318c247f.jpg)
+![01-html-css-git-homework-demo](./assets/images/Demo-landing-page.png)
 
 ## Challenges
 
